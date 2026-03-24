@@ -1,13 +1,10 @@
-# Hi, I am Giovanna!
+## Hi, I am Giovanna!
 
-**AI Intern | 8 months of experience**
+AI Intern | 8 months of experience
 
 ## About me
-
-* I'm currently working as an **Artificial Intelligence Intern** (wrapping up in July 2026!), gaining hands-on experience with real-world ML applications.
-* I am a daily **Ubuntu** user and I work with virtualization and emulation tools like **QEMU** and **KVM**.
-* Based in Manaus, Brazil.
-
+* I'm currently working as an Artificial Intelligence Intern (wrapping up in July 2026!), gaining hands-on experience with real-world ML applications.
+* I am a daily Ubuntu user and I work with virtualization and emulation tools like QEMU and KVM.
 
 ## 🛠️ Tech Stack & Tools
 
