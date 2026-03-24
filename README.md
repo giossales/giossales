@@ -1,12 +1,10 @@
 ## Hi, I am Giovanna!
 
-AI Intern | 8 months of experience
-
-## About me
-* I'm currently working as an Artificial Intelligence Intern (wrapping up in July 2026!), gaining hands-on experience with real-world ML applications.
-* I am a daily Ubuntu user and I work with virtualization and emulation tools like QEMU and KVM.
-
-## 🛠️ Tech Stack & Tools
+* Currently working as an Artificial Intelligence Intern (wrapping up in July 2026)
+* Based in Brazil
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/giovannasales/) or send me an email at [mgiovannagsales@gmail.com](mailto:mgiovannagsales@gmail.com)
+  
+## Tech Stack & Tools
 
 **Languages & Machine Learning:** <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
