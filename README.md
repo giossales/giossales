@@ -1,6 +1,6 @@
 ## Hi, I am Giovanna!
 
-* Currently working as an Artificial Intelligence Intern (wrapping up in July 2026)
+* Currently working as an Artificial Intelligence Intern
 * Based in Brazil
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/giovannasales/) or send me an email at [mgiovannagsales@gmail.com](mailto:mgiovannagsales@gmail.com)
   
