@@ -1,4 +1,4 @@
-## Hi, I am Giovanna!
+## Hi! I am Giovanna
 
 * Currently working as an Artificial Intelligence Intern
 * Based in Brazil
@@ -20,10 +20,3 @@
 <img align="center" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giossales&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giossales&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
